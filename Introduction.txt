@@ -3,3 +3,5 @@
 
 * Introduction to remote project management
 -------------------------------------------
+
+Between 60% and 80% of knowledge workers are part of at least one virtual team.
