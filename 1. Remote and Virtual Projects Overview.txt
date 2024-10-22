@@ -3,7 +3,7 @@
 
 * What is different about remote projects?
 ------------------------------------------
-Balance autonomy and independence with the right amount of oversight.
+Balance autonomy and independence with the right amount of oversight
 
 
 * Reduce Uncertainty with Structure
@@ -15,7 +15,18 @@ Balance autonomy and independence with the right amount of oversight.
 . Expectations for one-on-ones and stand-ups
 
 
+* Remote projects require more TRANSPARENCY
+-------------------------------------------
+. You can't see what your team is doing
+
+. You can't see if the member of your team are confusing or worried
+
+. The PM needs to model all the improving communication
+
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* 
 
 
 
